@@ -3,7 +3,6 @@
 
 Hey there! This is Barath Chakkaravarthy.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
 I'm an Aspiring Cybersecurity and Creative designing Enthusiast, who likes to explore Multiple Dimensions of Information Security and to work with Various Technologies and explore my interests in various Designing projects in the field.<br>
-<a href="https://www.rakshittandon.com/">Mr. Rakshit Tandon</a>, thereby Analysing the Real Cyber Crime happening across the Country.<br> 
 I create <a href="https://github.com/thedarknight07?tab=repositories"> Projects </a> occasionally, to test my skills and to enhance them.<br>
 Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
 <span id="a">root@barath_chakkaravarthy_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
