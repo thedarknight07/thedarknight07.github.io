@@ -1,0 +1,16 @@
+<span id="a">root@jubxxnferdxy_</span>:<span id="b">~</span><span id="c">$</span> cd Portfolio/<!-- kjsdfhkjdhsfkjdshfkj -->
+<span id="a">root@jubxxnferdxy_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->about.txt<br/>
+
+Hello, Friend! Myself, Jubeen Ferdinent Roy.<br><!-- laglaglaglaglaglaglaglaglaglaglaglag -->
+I'm an Aspiring Cybersecurity Enthusiast, who likes to explore Multiple Dimensions of Information Security and to work with Various Technologies in the field.<br>
+I developed a Huge interest, in the field of Cybersecurity in the age of 17 and working hard till now, to contribute something huge to the InfoSec Community.<br>
+My Area of Interest includes: Web Development, OpenSource Intelligence, Web Application and Mobile Application Security, Reverse Engineering and Malware Analysis.<br> 
+I was an Intern, in the Gurugram Police Cybercell during June 2021, under the Mentorship of <a href="https://www.rakshittandon.com/">Mr. Rakshit Tandon</a>, thereby Analysing the Real Cyber Crime happening across the Country.<br> 
+I create <a href="https://github.com/jubeenferdey?tab=repositories"> Projects </a> occasionally, to test my skills and to enhance them.<br>
+Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
+<span id="a">root@jubxxnferdxy_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
+Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/in/jubeenferdey/">Linkedin</a> <br> # <a href="
+https://www.instagram.com/jubeenferdxy_/">Instagram</a> <br> # <a href="https://twitter.com/jubeenferdey_">Twitter</a><br>
+Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:ferdeyjubeen@gmail.com"> ferdeyjubeen@gmail.com</a><br>
+<span id="h"> Developer by Day. Hacker by Night. </span><br>
+<span id="a">root@jubxxnferdxy_</span>:<span id="b">~</span><span id="c">$</span> exit</p> 
