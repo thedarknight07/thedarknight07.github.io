@@ -6,8 +6,10 @@ I'm an Aspiring Cybersecurity and Creative designing Enthusiast, who likes to ex
 I create <a href="https://github.com/thedarknight07?tab=repositories"> Projects </a> occasionally, to test my skills and to enhance them.<br>
 Here's my <a href="Resume.pdf">Resume</a>, if you wanna Hire/Stalk me.<br><br>
 <span id="a">root@barath_chakkaravarthy_</span>:<span id="b">~</span><span id="c">$</span> cat <!-- kjsdfhkjdhsfkjdshfkj -->contact.txt<br/>
-Wanna Stay Connected? <br> # <a href="https://www.linkedin.com/mwlite/in/barath-chakkaravarthy-31255b215">Linkedin</a> <br> # <a href="
-https://www.instagram.com/barath_chakkaravarthy/">Instagram</a> <br> # <a href="https://www.twitter.com/__mrco0l__">Twitter</a><br>
+Wanna Stay Connected? <br> # 
+<a href="https://www.linkedin.com/mwlite/in/barath-chakkaravarthy-31255b215">Linkedin</a> <br> # 
+<a href="https://www.instagram.com/barath_chakkaravarthy/">Instagram</a> <br> # 
+<a href="https://www.twitter.com/__mrco0l__"> Twitter</a><br>
 Oooh, Wait.. <!-- slightdelayhere--> Feel free to reach me at<!-- longlonglongcomment --><a href="mailto:barath0711@outlook.com"> barath0711@outlook.com</a><br>
 <span id="h"> Designer by Day. Developer by Night. </span><br>
 <span id="a">root@barath_chakkaravarthy_</span>:<span id="b">~</span><span id="c">$</span> exit</p> 
